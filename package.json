@@ -1,4 +1,5 @@
 {
+  "engine": "^12",
   "name": "dumbo",
   "version": "0.1.0",
   "private": true,
