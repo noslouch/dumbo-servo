@@ -1,5 +1,7 @@
 {
-  "engine": "^12",
+  "engines": {
+    "node": "^12.0.0"
+  },
   "name": "dumbo",
   "version": "0.1.0",
   "private": true,
