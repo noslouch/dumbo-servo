@@ -1,0 +1,15 @@
+{
+  "platform": "nodejs",
+  "tags": {
+    "default": {
+      "owner": "brian.whitton@wsj.com",
+      "bu": "djcs",
+      "product": "wsj",
+      "component": "frntend",
+      "environment": "dev"
+    },
+    "production": {
+      "environment": "production"
+    }
+  }
+}
