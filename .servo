@@ -7,9 +7,6 @@
       "product": "wsj",
       "component": "frntend",
       "environment": "dev"
-    },
-    "production": {
-      "environment": "production"
     }
   }
 }
